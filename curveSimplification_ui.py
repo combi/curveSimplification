@@ -14,6 +14,7 @@ import curveSimplification as curveSimplification
 
 # https://github.com/bootchk/freehandTool/blob/master/freehandApp.py
 # https://www.codeproject.com/Articles/373463/Painting-on-a-Widget
+# Commentaire pour faire un commit bidon sur git
 
 def timeIt(func):
     @wraps(func)
